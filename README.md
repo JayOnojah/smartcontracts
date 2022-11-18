@@ -1,2 +1,2 @@
 # SmartContracts
-Basic Tested Smart Contract Codes
+Basic Smart Contract Codes
